@@ -1,3 +1,10 @@
+# WARNING
+
+This is currently broken
+I tested the captured IR codes and they don't actually work. Not sure why, for some reason the flipper-zero capture and replay doesn't reproduce the data well enough to actually operate the light controllers.
+
+TODO: get working captures
+
 # How to control Ex-or LightSpot controllers with IR
 
 These light controllers are sometimes known by other names:
